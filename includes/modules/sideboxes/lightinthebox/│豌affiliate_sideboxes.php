@@ -1,0 +1,1 @@
+<a href="<?php echo zen_href_link(FILENAME_AFFILIATE,'#join') ?>" title="Affiliate Program"><img border="0" class="margin_t" alt="wholesale Affiliate Program" title="wholesale Affiliate Program " src="images/join_us.jpg"/></a>

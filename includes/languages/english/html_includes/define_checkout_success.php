@@ -1,0 +1,1 @@
+<h3>Thanks for shopping with us online!</h3>

@@ -1,0 +1,2 @@
+<p>This content is located in the file at: <code> /languages/english/html_includes/YOUR_TEMPLATE/define_links.php</code></p>
+<p>You can quickly edit this content via Admin->Tools->Define Pages Editor, and select define_links from the pulldown.</p>
